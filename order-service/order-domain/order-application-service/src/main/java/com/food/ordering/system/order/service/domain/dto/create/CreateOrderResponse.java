@@ -17,5 +17,5 @@ public class CreateOrderResponse {
     @NotNull
     private final OrderStatus orderStatus;
     @NotNull
-    private final String message;
+    private final String message; 
 }
